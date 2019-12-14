@@ -1,0 +1,29 @@
+[33mcommit 47a8c49ec517ab1904280c4250b32d8dc0ebbf3c[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Florian <Florianschickmair@gmx.at>
+Date:   Sun Dec 15 10:52:26 2019 +0100
+
+    create bugfic
+
+[33mcommit aa5ef9aabad7c07b9a7e83841f3a3db05e60504e[m[33m ([m[1;33mtag: v0.1[m[33m, [m[1;32mrelease-0.1[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Florian <Florianschickmair@gmx.at>
+Date:   Sun Dec 15 10:48:54 2019 +0100
+
+    update readme
+
+[33mcommit 81bad8c748000e782a403b2b4bafaada419e72ee[m
+Author: Florian <Florianschickmair@gmx.at>
+Date:   Sun Dec 15 10:44:04 2019 +0100
+
+    create .gitignore
+
+[33mcommit e8ad3b1feef842c290569843512e2cbdd00d8a83[m[33m ([m[1;31morigin/newmaster[m[33m, [m[1;32mnewmaster[m[33m)[m
+Author: Florian <Florianschickmair@gmx.at>
+Date:   Sat Dec 14 18:57:49 2019 +0100
+
+    add new file
+
+[33mcommit 54db54c03ea94e5edd730a447dc95d2f39c50bca[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Florian <Florianschickmair@gmx.at>
+Date:   Sat Dec 14 18:55:18 2019 +0100
+
+    first commit
